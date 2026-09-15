@@ -21,3 +21,6 @@ DOMAIN,api.vmsus.com
 DOMAIN,stapi.vmsus.com
 DOMAIN,chat.vmsus.com
 DOMAIN,lite.vmsus.com
+
+# Other
+DOMAIN-SUFFIX,raiseright.com
