@@ -2,6 +2,7 @@ payload:
   # Claude
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
+  - DOMAIN-SUFFIX,claude.dev
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,datadoghq.com
